@@ -34,7 +34,7 @@ public class EmployeeWage {
 			empHrs += workingHr;
 			empWage = empWage + (workingHr * wagePerHr);
 		}
-		System.out.println("Employee wage is : " + empWage);
+		System.out.println("Employee Wage is : " + empWage);
 
 	}
 
